@@ -174,7 +174,7 @@ def render_sidebar() -> None:
     """Render the sidebar with knowledge base controls and ground truth queries."""
     with st.sidebar:
         st.image(
-            "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Upwork_logo.svg/320px-Upwork_logo.svg.png",
+            "https://upload.wikimedia.org/wikipedia/commons/d/d2/Upwork-logo.svg",
             width=140,
         )
         st.markdown("## ⚙️ Knowledge Base")
